@@ -2,9 +2,16 @@
 
 ### My name is Daniele Falchetti, I’m an Italian Front-End Developer and Graphic & Web designer currently based in Barcelona.
 
-## Posts <a href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
+## Posts <a class="link-blog" href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [Presentation of the website](https://aprograma.co/blog/presentation)
 - [My first post on my nuxt blog page](https://aprograma.co/blog/my-first-post)
 <!-- BLOG-POST-LIST:END -->
+
+<style>
+  .link-blog,
+  .link-blog:hover,{
+  text-decoration: none;
+  }
+</style>
