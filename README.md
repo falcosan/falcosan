@@ -2,7 +2,7 @@
 
 ### My name is Daniele Falchetti, I’m an Italian Front-End Developer and Graphic & Web designer currently based in Barcelona.
 
-## :mega: Latest Blog Posts
+## :mega: Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Presentation of the website](https://aprograma.co/blog/presentation)
