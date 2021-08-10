@@ -1,5 +1,7 @@
 ## Hi there!  <a href="https://aprograma.co/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
 
+<img src="https://a.storyblok.com/f/106240/9032x3348/bd00b2d95a/logoanimate.gif" />
+
 ### My name is Daniele Falchetti, I’m an Italian Front-End Developer and Graphic & Web designer currently based in Barcelona.
 
 ## Posts <a href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
