@@ -1,4 +1,4 @@
-## Hi there <a href="https://aprograma.co/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
+## Hi there!  <a href="https://aprograma.co/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
 
 ### My name is Daniele Falchetti, I’m an Italian Front-End Developer and Graphic & Web designer currently based in Barcelona.
 
