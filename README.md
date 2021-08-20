@@ -9,6 +9,7 @@
 ## Posts <a href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Storyblok webhooks](https://aprograma.co/blog/storyblok-webhooks)
 - [Presentation of the website](https://aprograma.co/blog/presentation)
 - [My first post on my nuxt blog page](https://aprograma.co/blog/my-first-post)
 <!-- BLOG-POST-LIST:END -->
