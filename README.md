@@ -10,5 +10,4 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Presentation of the website](https://aprograma.co/blog/presentation)
-- [My first post on my nuxt blog page](https://aprograma.co/blog/my-first-post)
 <!-- BLOG-POST-LIST:END -->
