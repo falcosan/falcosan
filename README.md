@@ -9,6 +9,6 @@
 ## Posts <a href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [The entropy of global states](https://aprograma.co/blog/the-entropy-of-global-states)
+- [The entropy of states](https://aprograma.co/blog/the-entropy-of-global-states)
 - [Presentation of the website](https://aprograma.co/blog/presentation)
 <!-- BLOG-POST-LIST:END -->
