@@ -9,6 +9,6 @@
 ## Posts <a href="https://aprograma.co/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bill Holt&#39;s Dreamies](https://aprograma.co/blog/bill-holts-dreamies/)
 - [The entropy of states](https://aprograma.co/blog/the-entropy-of-states/)
-- [Presentation of the website](https://aprograma.co/blog/presentation/)
 <!-- BLOG-POST-LIST:END -->
