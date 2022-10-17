@@ -2,8 +2,6 @@
 
 ## Hi there!  <a href="https://aprograma.netlify.app/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
 
-<img src="https://a.storyblok.com/f/106240/9032x3348/bad89f683b/logoanimatebanner.gif" />
-
 ## Posts <a href="https://aprograma.netlify.app/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
