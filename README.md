@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/73217788-b54c-4bc8-9603-8bb3a1553afa/deploy-status)](https://app.netlify.com/sites/aprograma/deploys)
 
-<a href="https://aprograma.netlify.app/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
+<a href="https://aprograma.com/" :target="_blank" rel="noopener noreferrer"><img src="https://media.giphy.com/media/wF6bpfzo7fpFFhIop7/giphy.gif" width="40" height="40" /></a>
 
-## Posts <a href="https://aprograma.netlify.app/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
+## Posts <a href="https://aprograma.com/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
 - [React: considerations and references](https://aprograma.com/blog/react-references/)
