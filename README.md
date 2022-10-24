@@ -5,7 +5,7 @@
 ## Posts <a href="https://aprograma.com/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [React: considerations and references](https://aprograma.com/blog/react-references/)
-- [Bill Holt&#39;s Dreamies](https://aprograma.com/blog/bill-holts-dreamies/)
-- [The entropy of states](https:/aprograma.com//blog/the-entropy-of-states/)
+- [React: considerations and references](https://aprograma.com//blog/react-references/)
+- [Bill Holt&#39;s Dreamies](https://aprograma.com//blog/bill-holts-dreamies/)
+- [The entropy of states](https://aprograma.com//blog/the-entropy-of-states/)
 <!-- BLOG-POST-LIST:END -->
