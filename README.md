@@ -11,5 +11,3 @@
 - [Bill Holt&#39;s Dreamies](https://aprograma.com/blog/bill-holts-dreamies)
 - [The entropy of states](https://aprograma.com/blog/the-entropy-of-states)
 <!-- BLOG-POST-LIST:END -->
-
-<iframe src="https://aprograma.com/" height="200" width="300" title="Iframe Example"></iframe>
