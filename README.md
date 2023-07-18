@@ -5,9 +5,9 @@
 ## Posts <a href="https://aprograma.com/blog/" :target="_blank" rel="noopener noreferrer">:mega:</a>
 
 <!-- BLOG-POST-LIST:START -->
-- [Track your expenses with Splitwired](https://aprograma.com//blog/splitwired)
-- [Consumer ideas](https://aprograma.com//blog/consumer-ideas)
-- [IndexedDB in TypeScript](https://aprograma.com//blog/indexeddb-in-typescript)
-- [React: considerations and references](https://aprograma.com//blog/react-references)
-- [Bill Holt&#39;s Dreamies](https://aprograma.com//blog/bill-holts-dreamies)
+- [Track your expenses with Splitwired](https://aprograma.com/blog/splitwired)
+- [Consumer ideas](https://aprograma.com/blog/consumer-ideas)
+- [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
+- [React: considerations and references](https://aprograma.com/blog/react-references)
+- [Bill Holt&#39;s Dreamies](https://aprograma.com/blog/bill-holts-dreamies)
 <!-- BLOG-POST-LIST:END -->
