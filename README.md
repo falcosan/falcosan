@@ -4,13 +4,13 @@
 
 ---
 
-### 👨🏻‍💻 - [About](https://aprograma.com/blog/)
+### [About](https://aprograma.com/blog/) - 👨🏻‍💻
 My name is **Daniele Falchetti**.<br>
 I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
 
 ---
 
-### 📬 - [Blog](https://aprograma.com/blog/)
+### [Blog](https://aprograma.com/blog/) - 📬
 <!-- BLOG-POST-LIST:START -->
 - [Track your expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [Consumer ideas](https://aprograma.com/blog/consumer-ideas)
@@ -20,7 +20,7 @@ I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 🤌🏼 - Follow
+### Follow - 🤌🏼
 
 - [Linkedin](https://www.linkedin.com/in/danielefalchetti/)
 - [DEV](https://dev.to/falcosan)
