@@ -1,3 +1,7 @@
+
+
+<a href="https://aprograma.com/" target="_blank" ref="noopener noreferrer"><img src="https://a.storyblok.com/f/106240/2786x1530/1c3ed37e59/web.png" alt="Aprograma banner" /></a>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/73217788-b54c-4bc8-9603-8bb3a1553afa/deploy-status)](https://app.netlify.com/sites/aprograma/deploys)
 
 [Take a look at my blog](https://aprograma.com/)
