@@ -1,4 +1,4 @@
-## Ciao
+# Ciao =)
 
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
 
