@@ -1,7 +1,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=32&duration=2000&pause=100&height=50&lines=Hello there 👋" alt="Hello there SVG" />
 
+---
+
 ### [Aprograma](https://aprograma.com/) - 💻
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
+
+---
+
+### TL;DR - 🫵
+
+![Personal](https://github-stats-alpha.vercel.app/api?username=falcosan&cc=000&tc=fff&ic=fff&bc=000)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falcosan&langs_count=999&layout=compact)
 
 ---
 
@@ -26,11 +36,3 @@ I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
 - [Linkedin](https://www.linkedin.com/in/danielefalchetti/)
 - [DEV](https://dev.to/falcosan)
 - [Medium](https://aprograma.medium.com/)
-
----
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falcosan&langs_count=999&layout=compact)
-
-#### Aprograma Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/73217788-b54c-4bc8-9603-8bb3a1553afa/deploy-status)](https://app.netlify.com/sites/aprograma/deploys)
