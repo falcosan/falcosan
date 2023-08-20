@@ -9,7 +9,7 @@
 
 ### TL;DR - 🫵
 
-![Personal](https://github-stats-alpha.vercel.app/api?username=falcosan&cc=000&tc=fff&ic=fff&bc=000)
+![Personal](https://github-stats-alpha.vercel.app/api?username=falcosan&cc=212121&tc=fff&ic=fff&bc=212121)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falcosan&langs_count=999&layout=compact)
 
