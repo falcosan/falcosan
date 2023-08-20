@@ -1,5 +1,4 @@
-# Hello there 👋
-
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=32&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hello there 👋" alt="Hello there SVG" />
 
 ### [Aprograma](https://aprograma.com/) - 💻
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
