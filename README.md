@@ -23,11 +23,11 @@ I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
 
 ### [Blog](https://aprograma.com/blog/) - 📬
 <!-- BLOG-POST-LIST:START -->
+- [Redundancy of roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track your expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [Consumer ideas](https://aprograma.com/blog/consumer-ideas)
 - [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
 - [React: considerations and references](https://aprograma.com/blog/react-references)
-- [Bill Holt&#39;s Dreamies](https://aprograma.com/blog/bill-holts-dreamies)
 <!-- BLOG-POST-LIST:END -->
 
 ---
