@@ -18,6 +18,6 @@ I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
 - [React: considerations and references](https://aprograma.com/blog/react-references)
 <!-- BLOG-POST-LIST:END -->
 ---
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielefalchetti/)
-[DEV](https://dev.to/falcosan)
-[Medium](https://aprograma.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielefalchetti/)ㅤ
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/falcosan)ㅤ
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aprograma.medium.com/)
