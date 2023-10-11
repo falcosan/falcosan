@@ -1,13 +1,11 @@
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=32&duration=2000&pause=100&height=50&lines=👋ㅤHello" alt="Hello there SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=32&duration=2000&pause=100&height=50&lines=👋ㅤHello, I’m Daniele Falchetti" alt="Hello, I’m Daniele Falchetti" />
 
 ### [TL;DR](https://aprograma.notion.site/aprograma/Hello-I-m-Daniele-Falchetti-8566af5488324b47a2d691fee6476b13) - 📇
 
 ### [Aprograma](https://aprograma.com/) - 💻
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
 
-### [About](https://aprograma.com/blog/) - 👨🏻‍💻
-My name is **Daniele Falchetti**.<br>
-I’m a Team Leader and Senior Frontend Architect currently based in Valencia.
+### [About](https://aprograma.com/about/) - 👨🏻‍💻
 
 ### [Blog](https://aprograma.com/blog/) - 📬
 <!-- BLOG-POST-LIST:START -->
