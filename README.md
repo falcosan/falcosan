@@ -2,12 +2,12 @@
 
 ### [TL;DR](https://aprograma.notion.site/aprograma/Hello-I-m-Daniele-Falchetti-8566af5488324b47a2d691fee6476b13) - 📇
 
-### [Aprograma](https://aprograma.com/) - 💻
+### [Aprograma](https://aprograma.com) - 💻
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
 
-### [About](https://aprograma.com/about/) - 👨🏻‍💻
+### [About](https://aprograma.com/about) - 👨🏻‍💻
 
-### [Blog](https://aprograma.com/blog/) - 📬
+### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
 - [Redundancy of roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track your expenses with Splitwired](https://aprograma.com/blog/splitwired)
