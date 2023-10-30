@@ -9,11 +9,11 @@
 
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
-- [Redundancy of roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
-- [Track your expenses with Splitwired](https://aprograma.com/blog/splitwired)
-- [Consumer ideas](https://aprograma.com/blog/consumer-ideas)
+- [Redundancy of Roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
+- [Track Your Expenses with Splitwired](https://aprograma.com/blog/splitwired)
+- [Consumer Ideas](https://aprograma.com/blog/consumer-ideas)
 - [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
-- [React: considerations and references](https://aprograma.com/blog/react-references)
+- [React: Considerations and References](https://aprograma.com/blog/react-references)
 <!-- BLOG-POST-LIST:END -->
 ---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielefalchetti/)ㅤ
