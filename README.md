@@ -3,6 +3,8 @@
 ### [TL;DR](https://aprograma.notion.site/aprograma/Hello-I-m-Daniele-Falchetti-8566af5488324b47a2d691fee6476b13) - 📇
 
 ### [Aprograma](https://aprograma.com) - 💻
+[![Netlify Status](https://api.netlify.com/api/v1/badges/73217788-b54c-4bc8-9603-8bb3a1553afa/deploy-status)](https://app.netlify.com/sites/aprograma/deploys)
+
 <a href="https://aprograma.com/"><img src="https://a.storyblok.com/f/106240/2624x738/c2c5282987/web_banner.png" alt="Aprograma banner" /></a>
 
 ### [About](https://aprograma.com/about) - 👨🏻‍💻
