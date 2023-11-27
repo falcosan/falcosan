@@ -11,7 +11,7 @@
 
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
-- [An Equally Driven Second Choice](https://aprograma.com/blog/an-equally-driven-second-choice)
+- [An Equally Driven Second Choice](https://aprograma.com/blog/an-equally-driven-second-choice)
 - [Redundancy of Roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track Your Expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [Consumer Ideas](https://aprograma.com/blog/consumer-ideas)
