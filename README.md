@@ -9,11 +9,11 @@
 
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
+- [Easy Peasy Rusty Squeezy](https://aprograma.com/blog/easy-peasy-rusty-squeezy)
 - [An Equally Driven Second Choice](https://aprograma.com/blog/an-equally-driven-second-choice)
 - [Redundancy of Roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track Your Expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [Consumer Ideas](https://aprograma.com/blog/consumer-ideas)
-- [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 ---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielefalchetti/)ㅤ
