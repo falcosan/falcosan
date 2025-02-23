@@ -2,8 +2,6 @@
 
 ### [Aprograma](https://aprograma.com) - 💻
 
-### [About](https://aprograma.com/about) - 👨🏻‍💻
-
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
 - [Easy Peasy Rusty Squeezy](https://aprograma.com/blog/easy-peasy-rusty-squeezy)
