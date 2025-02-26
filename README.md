@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=28&duration=2000&pause=1500&height=40&lines=👋ㅤHello, I’m Daniele Falchetti" alt="Hello, I’m Daniele Falchetti" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=62&duration=2000&pause=1500&height=90&lines=Hi, I’m Daniele" alt="Hi, I’m Daniele" />
 
 ### [Aprograma](https://aprograma.com) - 💻
 
