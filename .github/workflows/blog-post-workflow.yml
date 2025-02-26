@@ -1,0 +1,17 @@
+name: Articles
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://aprograma.com/rss.xml"
