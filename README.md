@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&color=adbac7&size=62&duration=2000&pause=1500&height=92&lines=Hi, I’m Daniele" alt="Hi, I’m Daniele" />
-
 ### [Aprograma](https://aprograma.com) - 💻
 
 ### [Blog](https://aprograma.com/blog) - 📬
