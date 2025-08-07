@@ -5,11 +5,11 @@ Hi, I’m Daniele
 
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Agriculture](https://aprograma.com/blog/blockchain-agro)
 - [An Equally Driven Second Choice](https://aprograma.com/blog/an-equally-driven-second-choice)
 - [Redundancy of Roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track Your Expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [Consumer Ideas](https://aprograma.com/blog/consumer-ideas)
-- [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ---
