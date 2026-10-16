@@ -5,11 +5,11 @@ Hi, I’m Daniele
 
 ### [Blog](https://aprograma.com/blog) - 📬
 <!-- BLOG-POST-LIST:START -->
-- [Teamwork: The Mess Era](https://aprograma.com/blog/teamwork-mess-era)
 - [An Equally Driven Second Choice](https://aprograma.com/blog/an-equally-driven-second-choice)
 - [Redundancy of Roles](https://aprograma.com/blog/redundant-roles-in-it-companies)
 - [Track Your Expenses with Splitwired](https://aprograma.com/blog/splitwired)
 - [IndexedDB in TypeScript](https://aprograma.com/blog/indexeddb-in-typescript)
+- [React: Considerations and References](https://aprograma.com/blog/react-references)
 <!-- BLOG-POST-LIST:END -->
 
 ---
